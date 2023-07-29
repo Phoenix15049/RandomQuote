@@ -1,4 +1,5 @@
 # RandomQuote
+
 A simple piece of code using HTML, CSS and JavaScript to implement a random quote generator.
 
 ![Main Pic](https://github.com/Phoenix15049/RandomQuote/blob/main/src/MainPic.jpg)
